@@ -23,20 +23,13 @@ Encryption at rest is encryption that is used to help protect data that is store
 
 2. Run the setup script:
 ```sh
-sudo ./setup.sh
+sudo ./post-install.sh
 ```
 3. Follow the on-screen instructions to complete the setup.
 
 ## Configuration
 
 Edit the ```setup.conf``` file to customize the encryption settings according to your needs.
-
-## Usage
-
-Run the following command to start the encryption process:
-```sh
-sudo ./encrypt.sh
-```
 
 ## Contributing
 
