@@ -1,4 +1,4 @@
-## Hetzner Encryption at Rest
+## Encryption at Rest
 
 Encryption at rest is encryption that is used to help protect data that is stored on a disk (including solid-state drives) or backup media.
 
@@ -10,7 +10,7 @@ Encryption at rest is encryption that is used to help protect data that is store
 ## Getting Started
 
 ### Prerequisites
-- Hetzner dedicated server
+- Dedicated server
 - Shell environment
 - sudo privileges
 
@@ -20,17 +20,17 @@ Encryption at rest is encryption that is used to help protect data that is store
 
 The installimage script in the Hetzner Rescue System provides an easy way to install various Linux distributions.
 
-This tutorial shows how to use installimage to install an encrypted Ubuntu 20.04 system and add remote unlocking via SSH (dropbear) in initramfs stored in a separate /boot partition.
+This tutorial shows how to use installimage to install an encrypted Ubuntu 20.04 system or higher and add remote unlocking via SSH (dropbear) in initramfs stored in a separate /boot partition.
 
 ### Prerequisites
 
-- Hetzner account
+- Dedicated server account
 
 - Server booted into the Rescue System
 
 - RSA or ECDSA SSH public key
 
-- No private networks attached on Hetzner Cloud
+- No private networks attached on your Cloud
 
 
 ### Step 1 - Create or copy SSH public key
