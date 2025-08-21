@@ -197,37 +197,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## License
 This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE.md) file for details.
 
-## Acknowledgments
-
-- Thanks to Hetzner for providing excellent server infrastructure.
-- Special thanks to Jeyso215 for their contributions.
-
-You can view more commits [here](https://github.com/OfficialV4NT/Hetzner-Encryption-at-Rest/commits).
-
-Let me know if you need any modifications or additional information.
-
-## FAQ
-
-## Is my data safe on your instances?
-
-Yes,
-
-Awesome Security Features Enable Are:
-
-- 2FA (Security Keys + TOTP) on my hetzner account View more [here](https://docs.hetzner.com/accounts-panel/accounts/two-factor-authentication/).
-- Full Disk Encryption on HDD/SSD drives
-- End to End Encryption on most services
-- Less data collection
-- 3 Backup Solutions across the world
-- Unattended Automatic Updates
-- Brute Force Protection
-- And more
-
-### Contributing on AbuseIPDB
-<a href="https://www.abuseipdb.com/user/118422" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/118422.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
-</a>
-
 ## Sources
 
 - [How to install Ubuntu 20.04 with full disk encryption](https://community.hetzner.com/tutorials/install-ubuntu-2004-with-full-disk-encryption)
