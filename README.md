@@ -195,7 +195,7 @@ Edit the ```setup.conf``` file to customize the encryption settings according to
 Contributions are welcome! Please fork this repository and submit a pull request.
 
 ## License
-This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Sources
 
